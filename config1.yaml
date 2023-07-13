@@ -1,0 +1,18 @@
+
+path: '/content/gdrive/My Drive/object detection/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Building
+  1: car
+  2: person
+  3: tree
+  4: boat
+  5: dock
+  6: ground
+  7: trees
+  8: water
+  9: solar panel
+  10: railway track
